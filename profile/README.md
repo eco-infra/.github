@@ -1,6 +1,6 @@
 <center>
 
-![Eco-Infra Logo](./logo.svg)
+![Eco-Infra Logo](/logo.svg)
 
 **ecoinfra** is a powerful tool that helps you predict, asses, and reduce the environmental impact of your cloud
 infrastructure.
